@@ -464,11 +464,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""### **How to Run This Example**
-
-1.  **Dependencies:** Ensure you have `gymnasium`, `stable-baselines3`, `sb3-contrib`, and `networkx` installed.
-2.  **Execution:** Save the code above as `vneap_orchestrator.py` and run it:
-    ```bash
-    python vneap_orchestrator.py
-  ```
-"""
